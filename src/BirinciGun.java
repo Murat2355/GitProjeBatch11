@@ -7,6 +7,7 @@ public class BirinciGun {
 		System.out.println("Ucuncu Commit");
 		System.out.println("ertesi gun--Deneme Commit");
 		System.out.println("10:11 - Ikinci GUn");
+		System.out.println("10:26 - Ikinci GUn");
 	}
 
 }
